@@ -1,2 +1,3 @@
 Seda saavad kõik kasutada, sest see on opensource.
 Ma saan seda koolis ja kodus kasutada.
+Platvormi GitHub.com arendus algas 19. oktoobril 2007. Saidi käivitasid 2008. aasta aprillis Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon pärast seda, kui see oli paar kuud enne beetaversiooni kättesaadavaks tehtud.
